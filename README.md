@@ -10,6 +10,6 @@ El modelo entrenado guardado como my_model.h5.
 
 El script real_time_prediction.py, que es una versión modificada del programa base de predicción en tiempo real que nos proporcionó el profesor.
 
-- [Reporte en formato HTML](A3.2_641675.html)
-- [Reporte en formato ipynb](A3.2_641675.ipynb)
+- [Reporte en formato HTML](A3_2_641675.html)
+- [Reporte en formato ipynb](A3_2_641675.ipynb)
 - [Script .PY](real_time_prediction.py)
